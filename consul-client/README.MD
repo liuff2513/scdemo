@@ -1,5 +1,6 @@
 # spring cloud consul组件
 > 它是一个提供服务发现和配置的工具。consul具有分布式、高可用、高扩展性。
+
 ## 一、consul简介
 consul具有以下性质
 - 服务发现：consul通过http方式注册服务，并且服务与服务之间相互感应。
